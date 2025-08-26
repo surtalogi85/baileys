@@ -1,8 +1,8 @@
-# <div align='center'>@Surtalogi85/Baileys</div>
+# <div align='center'>Surtalogi - Baileys</div>
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/surtalogi85/baileys/refs/heads/master/lib/Skirk.jpeg" />
+  <img src="https://raw.githubusercontent.com/surtalogi85/baileys/refs/heads/master/lib/IMG_20250827_002924.jpg" />
 
   <a href="https://github.com/surtalogi85/baileys">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub Repository" />
