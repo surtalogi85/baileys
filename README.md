@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
 
-  <a href="https://whatsapp.com/channel/0029VaEe0l9Au3aVRw2x2r0V">
+  <a href="https://whatsapp.com/channel/0029Vb6cgxA0VycPa60Cb53y">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
   </a>
 
